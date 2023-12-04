@@ -1,4 +1,4 @@
-# Python Web
+# Python Print
 
 This is a Python program that allows the user to search for a string within a specified text file located in the current directory. The program also includes user-friendly input validation and error handling.
 
