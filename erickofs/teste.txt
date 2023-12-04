@@ -1,3 +1,0 @@
-abx
-##
-Hello World!

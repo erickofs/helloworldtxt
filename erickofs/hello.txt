@@ -1,0 +1,17 @@
+# Hello world file
+      
+
+                                  # This is not a Hello World!
+
+# kkkkkkkk
+                        # kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+                        Hello World!
+#                       ^ Essa linha tem que ser impressa
+             #And this one is not-----> Hello World!
+#
+Essa linha tambem tem que ser impressa.
+                   Essa Tambem!
+#       Já essa nao, mesmo contendo Hello World!
+
+
+          #
